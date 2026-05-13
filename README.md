@@ -38,7 +38,7 @@
 
 **Giảng viên hướng dẫn:**
 - 🎓 **TS. Đặng Lê Khoa** — Khoa Điện tử Viễn thông, HCMUS
-- 🎓 **CN. Nguyễn Dương** — Khoa Điện tử Viễn thông, HCMUS
+- 🎓 **CN. Nguyễn Dũng** — Khoa Điện tử Viễn thông, HCMUS
 
 ---
 
@@ -167,7 +167,7 @@ $$\text{Total Loss [dB]} = PL_{\text{large}}(d) + 10\log_{10}|h_{\text{small}}|^
 ## ⚖️ Bản quyền &amp; học thuật
 
 - **Báo cáo &amp; bài tập** (`*.pdf`): © 2025–2026 **Lương Hải Long &amp; Lê Phi Hùng — Nhóm 1, Lớp 22DTV_CLC1, HCMUS FETEL**. Tất cả nội dung lý thuyết, kết quả mô phỏng, mã MATLAB trong phụ lục đều do nhóm tự thực hiện.
-- **Đề bài &amp; tài liệu giảng dạy môn TTKD**: © **Khoa Điện tử Viễn thông — HCMUS** (giảng viên TS. Đặng Lê Khoa &amp; CN. Nguyễn Dương).
+- **Đề bài &amp; tài liệu giảng dạy môn TTKD**: © **Khoa Điện tử Viễn thông — HCMUS** (giảng viên TS. Đặng Lê Khoa &amp; CN. Nguyễn Dũng).
 - **README, banner, metadata repo**: MIT — xem [LICENSE](LICENSE).
 
 > ⚠️ **Đạo đức học thuật:** Không sao chép nội dung báo cáo / mã MATLAB / lời giải bài tập để nộp lại dưới tên của bạn cho bất kỳ môn học nào tại HCMUS. Đây là **vi phạm quy định đạo đức học thuật** của trường và sẽ bị xử lý theo quy chế.
