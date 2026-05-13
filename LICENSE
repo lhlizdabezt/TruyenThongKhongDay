@@ -1,0 +1,51 @@
+MIT License
+
+Copyright (c) 2025-2026 Group 1, Class 22DTV_CLC1, HCMUS FETEL:
+  - Lương Hải Long  (MSSV 22207056)
+  - Lê Phi Hùng    (MSSV 22207112)
+
+NOTE — Scope of this MIT License:
+This MIT License covers ONLY the following items in this repository:
+  * README.md
+  * docs/banner.svg
+  * .gitignore
+  * Any metadata files authored for the repository
+
+The MIT License does NOT cover:
+  * BaiTap/BaiTapTTKD_Nhom1_22DTV_CLC1.pdf — group homework PDF
+  * DoAn/DoAnTTKD_Nhom1_22DTV_CLC1.pdf      — final project report PDF
+  * MATLAB source code listings embedded in the project report's appendix
+
+These academic deliverables remain the joint intellectual property of both
+group members listed above. They are mirrored here for portfolio purposes
+and may NOT be:
+  - Re-submitted as the academic work of another person under any HCMUS
+    course (this constitutes plagiarism under university regulations);
+  - Used commercially without explicit written consent from BOTH authors;
+  - Redistributed without preserving the authorship attribution above.
+
+The course materials, exercise prompts and lecture content of "Truyen thong
+Khong day" remain the copyright of the Faculty of Electronics &
+Telecommunications, HCMUS (VNUHCM), and its lecturers:
+  - Dr. Dang Le Khoa
+  - Mr. Nguyen Duong
+
+----------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
