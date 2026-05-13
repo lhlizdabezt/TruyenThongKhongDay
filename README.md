@@ -34,7 +34,7 @@
 | Vai trò              | Họ tên               | MSSV         | Email                              |
 | -------------------- | -------------------- | ------------ | ---------------------------------- |
 | 👨‍💻 Thành viên 1     | **Lương Hải Long**  | `22207056`   | 22207056@student.hcmus.edu.vn      |
-| 👨‍💻 Thành viên 2     | **Lê Phi Hùng**     | `22207112`   | 22207112@student.hcmus.edu.vn      |
+| 👨‍💻 Thành viên 2     | **Lý Phi Hùng**     | `22207112`   | 22207112@student.hcmus.edu.vn      |
 
 **Giảng viên hướng dẫn:**
 - 🎓 **TS. Đặng Lê Khoa** — Khoa Điện tử Viễn thông, HCMUS
@@ -55,7 +55,7 @@ Repository gồm **2 sản phẩm chính** của môn **Truyền thông Không d
 
 ## 📕 Bài tập nhóm — `BaiTap/BaiTapTTKD_Nhom1_22DTV_CLC1.pdf`
 
-**20 trang, 1.9 MB** — bài làm theo đề chương trình môn học:
+**28 trang, 1.9 MB** — bài làm theo đề chương trình môn học:
 
 | Chương | Chủ đề kỹ thuật                                  | Nội dung trọng tâm                                                                            |
 | ------ | ------------------------------------------------ | --------------------------------------------------------------------------------------------- |
@@ -125,7 +125,7 @@ TruyenThongKhongDay/
 │   └── banner.svg                                  # Banner README
 │
 ├── BaiTap/
-│   └── BaiTapTTKD_Nhom1_22DTV_CLC1.pdf             # 📕 Bài tập 5 chương (20 trang)
+│   └── BaiTapTTKD_Nhom1_22DTV_CLC1.pdf             # 📕 Bài tập 5 chương (28 trang)
 │
 └── DoAn/
     └── DoAnTTKD_Nhom1_22DTV_CLC1.pdf               # 🛰️ Đồ án mô phỏng fading (36 trang)
@@ -166,7 +166,7 @@ $$\text{Total Loss [dB]} = PL_{\text{large}}(d) + 10\log_{10}|h_{\text{small}}|^
 
 ## ⚖️ Bản quyền &amp; học thuật
 
-- **Báo cáo &amp; bài tập** (`*.pdf`): © 2025–2026 **Lương Hải Long &amp; Lê Phi Hùng — Nhóm 1, Lớp 22DTV_CLC1, HCMUS FETEL**. Tất cả nội dung lý thuyết, kết quả mô phỏng, mã MATLAB trong phụ lục đều do nhóm tự thực hiện.
+- **Báo cáo &amp; bài tập** (`*.pdf`): © 2025–2026 **Lương Hải Long &amp; Lý Phi Hùng — Nhóm 1, Lớp 22DTV_CLC1, HCMUS FETEL**. Tất cả nội dung lý thuyết, kết quả mô phỏng, mã MATLAB trong phụ lục đều do nhóm tự thực hiện.
 - **Đề bài &amp; tài liệu giảng dạy môn TTKD**: © **Khoa Điện tử Viễn thông — HCMUS** (giảng viên TS. Đặng Lê Khoa &amp; CN. Nguyễn Dũng).
 - **README, banner, metadata repo**: MIT — xem [LICENSE](LICENSE).
 
