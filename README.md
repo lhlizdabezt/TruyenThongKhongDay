@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Nhóm-1-D95319?style=flat-square" alt="Group 1" />
   <img src="https://img.shields.io/badge/Lớp-22DTV__CLC1-2563eb?style=flat-square" alt="Class" />
   <img src="https://img.shields.io/badge/Trường-HCMUS%20FETEL-003366?style=flat-square" alt="HCMUS FETEL" />
-  <img src="https://img.shields.io/badge/GVHD-TS.%20Đặng%20Lê%20Khoa%20%26%20CN.%20Nguyễn%20Dương-0f766e?style=flat-square" alt="GVHD" />
+  <img src="https://img.shields.io/badge/GVHD-TS.%20Đặng%20Lê%20Khoa%20%26%20CN.%20Nguyễn%20Dũng-0f766e?style=flat-square" alt="GVHD" />
 </p>
 
 <p align="center">
