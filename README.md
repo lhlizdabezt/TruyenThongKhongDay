@@ -1,65 +1,111 @@
-# Wireless Communications MATLAB Project
+# Wireless Communications MATLAB Portfolio
 
-<p align="center">
-  <a href="https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/TruyenThongKhongDay?style=for-the-badge&logo=github&label=Release" alt="Latest release for TruyenThongKhongDay" /></a>
-  <a href="https://github.com/lhlizdabezt/TruyenThongKhongDay/tags"><img src="https://img.shields.io/github/v/tag/lhlizdabezt/TruyenThongKhongDay?style=for-the-badge&logo=git&label=Tag" alt="Latest tag for TruyenThongKhongDay" /></a>
-  <img src="https://img.shields.io/badge/Portfolio-English%20review%20ready-0f766e?style=for-the-badge" alt="English portfolio ready" />
-</p>
-<p align="center">
-  <img src="assets/portfolio-motion.svg" alt="Animated engineering portfolio visual for TruyenThongKhongDay" width="100%" />
-</p>
+![Profile](https://img.shields.io/badge/Profile-lhlizdabezt-0B3D91?style=for-the-badge)
+![Writing](https://img.shields.io/badge/Writing-IEEE%20and%20Harvard%20style-1F6F5B?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-English%20US-7A1E3A?style=for-the-badge)
+![Review](https://img.shields.io/badge/Status-Reviewer%20Ready-333333?style=for-the-badge)
 
+![Wireless Communications MATLAB Portfolio reviewer card](assets/reviewer-card.svg)
 
-## Overview
+## Executive Summary
 
-This repository presents a MATLAB wireless-communications project covering fading channels, equalizers, OFDM, MIMO, link-budget calculations and BER Monte Carlo simulations.
+This repository presents wireless communications coursework and project material as a MATLAB-focused engineering portfolio. It covers fading-channel behavior, equalization, OFDM and MIMO concepts, link-budget reasoning, Monte Carlo BER simulation, and reviewer-readable documentation for telecommunications roles.
+
+## Project Snapshot
 
 | Field | Details |
 |---|---|
-| Repository | [TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) |
-| Portfolio category | Wireless communications simulation project |
-| Primary stack | MATLAB, wireless communications, fading channels, equalizers, OFDM, MIMO, link budget, BER, Monte Carlo simulation. |
-| Latest release | [GitHub Releases](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/latest) |
-| Tags | [Version tags](https://github.com/lhlizdabezt/TruyenThongKhongDay/tags) |
-| Owner profile | [Luong Hai Long](https://github.com/lhlizdabezt) |
+| Repository | [lhlizdabezt/TruyenThongKhongDay](https://github.com/lhlizdabezt/TruyenThongKhongDay) |
+| Portfolio Track | Wireless communications, MATLAB simulations, fading channels, equalizers, OFDM, MIMO, and BER analysis |
+| Public Status | Reviewer-ready English guide with release-backed evidence |
+| Latest Release | [Open stable release](https://github.com/lhlizdabezt/TruyenThongKhongDay/releases/latest) |
+| Owner Profile | [lhlizdabezt](https://github.com/lhlizdabezt) |
+| Contact | 22207056@student.hcmus.edu.vn; luonghailong.work@gmail.com; Tel: +84988114708 |
 
-## Reviewer Map
+## Reviewer Evidence Map
 
-| What to Review | Where to Look | Why It Matters |
-|---|---|---|
-| Technical scope | This README and source tree | Gives a quick, bounded reading path before opening every file |
-| Evidence assets | Release page and top-level project files | Shows what can be downloaded or inspected quickly |
-| Implementation material | Source folders, scripts, notebooks or design files | Connects the portfolio claim to real project artifacts |
-| Version history | Tags and release notes | Makes the repository easier to audit over time |
+- MATLAB scripts and project folders for telecommunications simulation topics.
+- Coursework or project evidence organized for public review.
+- English README sections that connect equations, simulation, and engineering interpretation.
+- Release-backed visual assets for a stable profile snapshot.
 
-## Evidence Highlights
+## Implementation Review Notes
 
-- Large-scale and small-scale fading simulations.
-- Equalizer, OFDM and MIMO study flows.
-- Link-budget and BER Monte Carlo analysis.
-- Release-backed report and MATLAB simulation evidence.
+| Review Point | What To Check |
+|---|---|
+| Problem framing | Confirm that the README explains the engineering purpose without exaggerated claims. |
+| Technical evidence | Inspect the source folders, reports, scripts, schematics, or visual assets listed below. |
+| Reproducibility | Use the local instructions where tools are available, or rely on the release snapshot for portfolio review. |
+| Communication quality | Check headings, captions, tables, and release notes for clear English technical writing. |
+| Professional boundary | Treat the repository as educational or portfolio evidence unless the source explicitly proves production deployment. |
 
 ## Repository Structure
 
-| Path | Purpose |
+| Path | Reviewer Purpose |
 |---|---|
-| `BaiTap/` | Top-level directory included in the repository |
-| `DoAn/` | Top-level directory included in the repository |
-| `docs/` | Top-level directory included in the repository |
-| `LICENSE` | Top-level file included in the repository |
+| `DoAn/` | Project material and wireless communications evidence when available. |
+| `BaiTap/` | Exercise or coursework material when available. |
+| `*.m` | MATLAB simulation scripts and functions. |
+| `assets/` | English reviewer card and visual motion assets. |
+| `RELEASE_NOTES.md` | Release changelog for the English reviewer guide. |
 
-## Scope and Boundaries
+## How To Review
 
-Course project and simulation evidence. The results are educational analysis, not commercial wireless-system validation.
+- Use this README to map the simulation topics before opening MATLAB files.
+- Inspect scripts for channel modeling, modulation, equalization, or BER simulation logic.
+- Review plots, reports, and release assets for result interpretation.
+- Use the latest release as the stable public portfolio state.
 
-## Role and Portfolio Context
+## How To Use Or Inspect Locally
 
-Luong Hai Long presents this repository as telecommunications and MATLAB simulation evidence.
+- Open MATLAB and set the repository root or target project folder as the current directory.
+- Run the relevant `.m` script for the wireless communications topic under review.
+- Check assumptions such as SNR range, channel model, modulation order, and sample size.
+- Use generated figures and comments to interpret BER or signal-processing behavior.
 
-## Release and Tagging Notes
+## Visual Evidence
 
-This repository is maintained as part of an English-facing engineering portfolio. Releases and tags are used to preserve reviewable snapshots of the project, including source state, documentation updates and any available visual or report assets.
+![Animated English reviewer card.](assets/reviewer-card.svg)
+
+*Animated English reviewer card.*
+
+## Release, Tags, And Topics
+
+- Current release target: `reviewer-guide-2026-06-02`.
+- Recommended topic set: `wireless-communications, matlab, telecommunications, ofdm, mimo, ber, fading-channels, signal-processing, equalization, monte-carlo`.
+- Release notes are maintained in [`RELEASE_NOTES.md`](RELEASE_NOTES.md) for stable reviewer traceability.
+- The release archive is intended for HR review, seminar evidence, and academic portfolio verification.
+
+## Contact And Professional Links
+
+| Channel | Link |
+|---|---|
+| GitHub | [https://github.com/lhlizdabezt](https://github.com/lhlizdabezt) |
+| LinkedIn | [https://www.linkedin.com/in/lhlizdabezt](https://www.linkedin.com/in/lhlizdabezt) |
+| Facebook | [https://www.facebook.com/wageseadrake](https://www.facebook.com/wageseadrake) |
+| Instagram | [https://www.instagram.com/lhlizdabezt](https://www.instagram.com/lhlizdabezt) |
+| YouTube | [https://www.youtube.com/@lhlizdabezt](https://www.youtube.com/@lhlizdabezt) |
+| TikTok | [https://www.tiktok.com/@wageseadrake](https://www.tiktok.com/@wageseadrake) |
+| Academic Email | [22207056@student.hcmus.edu.vn](mailto:22207056@student.hcmus.edu.vn) |
+| Professional Email | [luonghailong.work@gmail.com](mailto:luonghailong.work@gmail.com) |
+| Phone | [+84988114708](tel:+84988114708) |
+
+## FAQ
+
+| Question | Answer |
+|---|---|
+| What engineering area does this repository support? | Telecommunications, wireless communications, signal processing, and MATLAB simulation work. |
+| Is this a hardware radio implementation? | No. The public framing is MATLAB simulation and engineering analysis. |
+| What should reviewers look for? | Correct modeling assumptions, clear simulation structure, and meaningful BER or performance interpretation. |
+
+## Scope And Boundaries
+
+- This repository is presented as public engineering portfolio evidence.
+- Claims are intentionally limited to what the repository, report, source files, simulations, or visual assets can support.
+- Public text is written in English (United States) for HR, faculty, and engineering reviewers.
+- SVG text is kept ASCII-safe to reduce rendering errors, mojibake, and missing-glyph blocks.
+- Motion visuals avoid moving dotted paths, curved connector lines, and text-over-line compositions.
 
 ## Writing Standard
 
-The README follows an evidence-first style: direct technical nouns, clear project boundaries, release-backed artifacts and no inflated claims beyond what the repository can support.
+The public README, release notes, captions, and reviewer-facing metadata are written in a restrained IEEE and Harvard-inspired style: concise, evidence-first, technically accurate, and suitable for Electronics and Telecommunications portfolio review.
